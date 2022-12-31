@@ -32,3 +32,20 @@ E:\Teach4\Final_Poject\Final_Poject\obj\Debug\Final_Poject.frmStudentInfo.resour
 E:\Teach4\Final_Poject\Final_Poject\obj\Debug\Final_Poject.MDIParent1.resources
 E:\Teach4\Final_Poject\Final_Poject\obj\Debug\Final_Poject.Properties.Resources.resources
 E:\Teach4\Final_Poject\Final_Poject\obj\Debug\Final_Poject.csproj.GenerateResource.Cache
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Prasad Computer.exe
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Prasad Computer.pdb
+E:\Teach4\Addmition Application\Final_Poject\bin\Debug\Prasad Computer.exe
+E:\Teach4\Addmition Application\Final_Poject\bin\Debug\Prasad Computer.pdb
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\ResolveAssemblyReference.cache
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.frmCourses.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.frmRegistration.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.frmWelcome.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.frmCashRpt.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.frmCourserpt.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.frmForgetPass.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.frmLogin.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.frmReceipt.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.frmStudentInfo.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.MDIParent1.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.Properties.Resources.resources
+E:\Teach4\Addmition Application\Final_Poject\obj\Debug\Final_Poject.csproj.GenerateResource.Cache

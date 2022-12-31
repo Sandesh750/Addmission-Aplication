@@ -9,7 +9,7 @@ namespace Final_Poject
 {
     public static class GlobalClass
     {
-        public static OleDbConnection con = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=E:\\Teach4\\Final_Poject\\Final_Poject\\bin\\Debug\\Primary Courses.xls;Persist Security Info=False;Extended Properties=Excel 8.0");
+        public static OleDbConnection con = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=E:\\Teach4\\Addmition Application\\Final_Poject\\bin\\Debug\\Primary Courses.xls;Persist Security Info=False;Extended Properties=Excel 8.0");
         public static OleDbCommand cmd = new OleDbCommand();
         public static OleDbDataReader dr;
         public static OleDbDataAdapter da = new OleDbDataAdapter();
